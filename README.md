@@ -9,7 +9,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://venkateshdev.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
 
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=codewith-venkatesh-dev&style=flat-square&color=blue)
 
 </div>
 
@@ -60,13 +60,20 @@ I'm a software developer with **1+ year of professional experience** building an
 <tr>
 <td width="50%" valign="top">
 
+### 🍲 SVS Foods — Food Ordering App
+A responsive food-ordering web app concept designed to simplify product browsing and ordering, with a smooth customer experience.
+
+[🌐 Live Demo](https://svsfoods.netlify.app/)
+
+</td>
+<td width="50%" valign="top">
+
 ### 📊 Leadify CRM
 A lightweight CRM for managing leads, tracking pipeline stages, and organizing follow-up reminders.
 
 **Stack:** React, TypeScript, Node.js, MySQL
 
-[🌐 Live Demo](https://leadifycrm.netlify.app/) · [💻 Source Code](https://github.com/YOUR_GITHUB_USERNAME/YOUR_CRM_REPOSITORY)
-
+[🌐 Live Demo](https://leadifycrm.netlify.app/)
 </td>
 <td width="50%" valign="top">
 
@@ -75,8 +82,17 @@ My portfolio highlighting software development experience, projects, and custom 
 
 **Stack:** React, TypeScript, Framer Motion
 
-[🌐 Live Website](https://venkateshdev.netlify.app/) · [💻 Source Code](https://github.com/YOUR_GITHUB_USERNAME/YOUR_PORTFOLIO_REPOSITORY)
+[🌐 Live Website](https://venkateshdev.netlify.app/)
 
+</td>
+<td>
+
+### 🚕 SVS Taxi – Travels Website
+Completed Client Project
+
+Developed and deployed a professional, responsive website for SVS Taxi, a travel company based in Virudhunagar, Tamil Nadu. The website helps establish the company's online presence, showcase its travel services and make it easier for customers to connect with the business.
+
+[🌐 Live Website](https://svstaxivirudhunagar.netlify.app/)
 </td>
 </tr>
 </table>
@@ -99,11 +115,11 @@ My portfolio highlighting software development experience, projects, and custom 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codewith-venkatesh-dev&show_icons=true&theme=github_dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codewith-venkatesh-dev&layout=compact&theme=github_dark&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=codewith-venkatesh-dev&theme=github-dark-blue&hide_border=true)
 
 </div>
 
