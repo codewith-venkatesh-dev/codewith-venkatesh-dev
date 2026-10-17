@@ -6,7 +6,7 @@
 
 **Building practical software that solves real business problems.**
 
-<a href="https://venkateshdev.netlify.app">
+<a href="https://venkateshsolutions.netlify.app">
   <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-0A66C2?style=for-the-badge" alt="Portfolio">
 </a>
 <a href="https://www.linkedin.com/">
@@ -258,7 +258,7 @@ I'm open to discussing:
 
 <div align="center">
 
-<a href="https://venkateshdev.netlify.app">
+<a href="https://venkateshsolutions.netlify.app">
   <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Portfolio-0A66C2?style=for-the-badge" alt="Portfolio">
 </a>
 
